@@ -7,7 +7,7 @@
 ## Demo
 
 You can try out a live demo of the joystick to see how it works in real-time.
-[Live Demo](joystick-js-demo.netlify.app)
+[Live Demo](https://joystick-js-demo.netlify.app)
 
 ## Features
 
